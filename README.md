@@ -35,8 +35,8 @@ The application is a single-page app that communicates directly with the Google 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/MakendranG/Vibe-Coded-Recipe-Generator-Meal-Planner.git)
+    cd Vibe-Coded-Recipe-Generator-Meal-Planner
     ```
 
 2.  **Set up your API Key:**
