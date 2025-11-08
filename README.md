@@ -35,7 +35,7 @@ The application is a single-page app that communicates directly with the Google 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/MakendranG/Vibe-Coded-Recipe-Generator-Meal-Planner.git)
+    git clone https://github.com/MakendranG/Vibe-Coded-Recipe-Generator-Meal-Planner.git
     cd Vibe-Coded-Recipe-Generator-Meal-Planner
     ```
 
@@ -56,6 +56,6 @@ The application is a single-page app that communicates directly with the Google 
 
 Click the **"Deploy to Cloud Run"** button at the top of this README to deploy this application directly to your Google Cloud account.
 
-## 💡 What We Learned
+## 💡 What I Learned
 
 This project was a fantastic exploration of building practical applications with multimodal AI. The key takeaway was the power of using structured data outputs (JSON Mode) to create reliable integrations with generative AI, moving from simple chatbots to complex, data-driven applications.
